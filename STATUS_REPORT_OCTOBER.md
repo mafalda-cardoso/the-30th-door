@@ -3,6 +3,6 @@
 - **Funciona:** regras e mapa do tabuleiro feitos; o protótipo de consola corre (dados manuais e aleatórios, sair/recomeçar, entrada inválida rejeitada); 20/20 verificações repetíveis passam (`java Checks`); transcrição de exemplo incluída.
 - **Falta:** Dice e Cell como interfaces/classes, mais testes, mockup artístico, UML final, relatório final.
 - **Contribuições:** Mafalda Cardoso (30017160): Board, Game, TurnResult, Checks. Nédes Júnior (30016916): Main (consola), UML, README.
-- **Reflexão Mafalda:** ... (2-3 frases: dificuldade, decisão, aprendizagem)
+- **Reflexão Mafalda:** A minha maior dificuldade foi adaptar-me ao ambiente de desenvolvimento em Java e GitHub e compreender melhor a estrutura do código, uma vez que ainda estou a aprender. Contribuí para a escolha do nome e tema do jogo, *The 30th Door*, e para a definição das regras, tendo utilizado o Claude como apoio na criação do protótipo inicial. Ao longo do processo, compilei e testei o projeto, executei as 20 verificações e aprendi a importância de organizar o código em diferentes classes e validar as jogadas para evitar erros durante o jogo.
 - **Reflexão Nédes:** ... (2-3 frases)
 - **Próximos passos:** tarefas de novembro em TASKS.md; prazo 26 de novembro.
