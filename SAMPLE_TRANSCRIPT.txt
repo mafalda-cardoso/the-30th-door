@@ -1,0 +1,10 @@
+Modo de dados: (a)leatório, (m)anual ou (q) sair? Lançamento de abertura: quem tirar o número maior começa.
+Escreve o lançamento de jogador 1 (1-6, r recomeçar, q sair): Escreve o lançamento de jogador 2 (1-6, r recomeçar, q sair): Começa o jogador 2.
+Estado (0, 0) - Jogador 2
+Escreve o lançamento de jogador 2 (1-6, r recomeçar, q sair): O lançamento deve ser entre 1 e 6.
+Escreve o lançamento de jogador 2 (1-6, r recomeçar, q sair): Jogador 2: 0 -> 4 -> efeito -> 10
+Estado (0, 10) - Jogador 1
+Escreve o lançamento de jogador 1 (1-6, r recomeçar, q sair): Entrada inválida.
+Escreve o lançamento de jogador 1 (1-6, r recomeçar, q sair): Jogador 1: 0 -> 2
+Estado (2, 10) - Jogador 2
+Escreve o lançamento de jogador 2 (1-6, r recomeçar, q sair): 
