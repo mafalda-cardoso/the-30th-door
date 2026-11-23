@@ -1,13 +1,16 @@
 # Esboço da consola
 ```
-Modo de dados: (a)leatório, (m)anual ou (q) sair? m
-Lançamento de abertura: quem tirar o número maior começa.
-Escreve o lançamento de jogador 1 (1-6, r recomeçar, q sair): 3
-Escreve o lançamento de jogador 2 (1-6, r recomeçar, q sair): 5
-Começa o jogador 2.
-Estado (0, 0) - Jogador 2
-Escreve o lançamento de jogador 2 (1-6, r recomeçar, q sair): 4
-Jogador 2: 0 -> 4 -> efeito -> 10
+ 0   1   2   3   4^  5   6   7   8   9v
+12
+10  11  12^ 13  14  15  16  17v 18  19
+ 2
+20^ 21  22  23  24  25v 26  27  28v 29
+
+30
+
+^ avanço   v retorno   1 = jogador 1   2 = jogador 2
 Estado (0, 10) - Jogador 1
+Escreve o lançamento de jogador 1 (1-6, r recomeçar, q sair): 6
+Jogador 1: 0 -> 6
 ```
-`(0, 10)` = o jogador 1 está na casa 0 e o jogador 2 na casa 10, mesmo que o jogador 2 tenha começado.
+`(0, 10)` = o jogador 1 está na casa 0 e o jogador 2 na casa 10. Por baixo de cada número aparece 1 e/ou 2 se um peão lá estiver.

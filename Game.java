@@ -37,6 +37,11 @@ public class Game {
         return turn + 1;
     }
 
+    public Board board() { return board; }
+
+    /** Casa do jogador 1 ou 2. */
+    public int positionOf(int player) { return pos[player - 1]; }
+
     public int currentPlayer() { return turn + 1; }
     public boolean isOver() { return over; }
     public String state() { return "(" + pos[0] + ", " + pos[1] + ")"; }
