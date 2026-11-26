@@ -26,6 +26,6 @@
 
 ## 4. Reflexão e próximos passos
 **Mafalda:** A maior dificuldade foi perceber como encaixar as classes novas (Dice e Cell) no código que já existia sem estragar o que funcionava. Usámos o Claude para as gerar e eu li-as com as notas, compilei e corri as verificações a cada passo até passarem todas (35/35). Antes da entrega final falta a ilustração final, o relatório de quatro páginas e mais testes.
-**Nédes:** [2-3 frases dele]
+**Nédes:** Durante esta etapa do projeto, o meu principal desafio técnico foi compreender o funcionamento e a lógica por trás da interface Dice/ManualDice. No entanto, encarei este obstáculo como uma oportunidade de aprendizagem e me dediquei a um estudo mais aprofundado sobre o tema, pesquisei documentação e procurei apoio tanto junto da minha colega de equipa como com o auxílio do Claude para esclarecer dúvidas pontuais. Essa combinação de esforço individual e colaboração foi fundamental para que eu conseguisse não só ultrapassar a dificuldade, mas também consolidar os meus conhecimentos.
 
 **O que falta até à entrega final (4 de janeiro):** ilustração final, relatório de 4 páginas, contagem de linhas, imagem do UML, mais testes e commits regulares em dezembro.
