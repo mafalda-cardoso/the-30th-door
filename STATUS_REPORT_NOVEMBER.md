@@ -4,7 +4,7 @@
 ## 1. Repositório e versão avaliada
 - URL: https://github.com/mafalda-cardoso/the-30th-door
 - Tag: `november-milestone`
-- Commit: [colar aqui o hash do último commit]
+- Commit:..
 
 ## 2. Estado atual
 **Funciona:**
